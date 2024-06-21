@@ -1,5 +1,6 @@
 # Create an Art piece Digital Twin using Mediapipe TouchDesigner Plugin and Arduino 
-<img width="1053" alt="digital_twin" src="123">
+<img width="1053" alt="digital_twin" src="https://github.com/vania-bisbal/mediapipe_api/blob/cc52cd9bb43f9cc27baa278645e4bf33e85d2d0b/digitalclaytwin.jpg">
+
 
 # Let's start with the MediaPipe TouchDesigner Plugin
 
