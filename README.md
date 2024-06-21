@@ -11,10 +11,10 @@ A GPU Accelerated, self-contained, [MediaPipe](https://developers.google.com/med
 
 <img width="1053" alt="Screenshot 2023-08-14 at 2 16 44 PM" src="https://github.com/torinmb/mediapipe-touchdesigner/assets/6014011/8f7a9eb9-fa7a-4d9b-b541-bb9c6c4e0e88">
 
-# Overview
+# Mediapipe Plugin Overview
 To get an idea of what's possibe with the plugin, and a quick tutorial on how to get up and running, check out Torin's tutorial [introduction video on YouTube](https://www.youtube.com/watch?v=Cx4Ellaj6kk "Face, Hand, Pose Tracking & More in TouchDesigner with @MediaPipe GPU Plugin")
 
-# Setup
+# Mediapipe Plugin Setup
 Download the latest **release.zip** from the [Release Section](https://github.com/torinmb/mediapipe-touchdesigner/releases). Open up the MediaPipe TouchDesigner.toe file. All of the components are stored inside the /toxes folder. The main component is MediaPipe.tox. All of the other components are examples of how to load and display the associated model data in TouchDesigner.
 
 On the MediaPipe component once it's loaded you can select your webcam from the drop-down. You can turn on and off the different MediaPipe models as well as preview overlays. There're also sub-menus available for each model to customize them further.
@@ -25,7 +25,7 @@ On the MediaPipe component once it's loaded you can select your webcam from the 
 # A note on resolution
 Currently the model is limited to 720p input resolution - as long as that's a resolution your webcam supports, you're good to go.
 
-## Components
+## Mediapipe Plugin Components
 The plugin consists of a number of components:
 
 ### Media Pipe tox
