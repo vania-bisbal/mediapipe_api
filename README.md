@@ -88,3 +88,7 @@ The web server component has an embedded set of web pages that are served to the
 
 ### Web browser
 The embedded Chromium support in TouchDesigner allows us to run a full web browser within TouchDesigner. This web browser opens the web pages served by the web server, which allow it to run all of the MediaPipe detection components and render the final video stream. The web browser also sends coordinate data and other detection data back to TouchDesigner via a websocket connection.
+
+# Now, let's setup the electronic gloves
+<img width="1053" alt="digital_twin" src="https://github.com/vania-bisbal/mediapipe_api/blob/cc52cd9bb43f9cc27baa278645e4bf33e85d2d0b/digitalclaytwin.jpg">
+
