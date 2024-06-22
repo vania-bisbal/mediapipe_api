@@ -97,4 +97,3 @@ Install arduino en run the [code](https://github.com/vania-bisbal/mediapipe_api/
 # Touchdesigner 
 <img width="1053" alt="digital_twin" src="https://github.com/vania-bisbal/mediapipe_api/blob/cf7b35e8693065c5c17f7856f79e2691124fe288/TD.jpeg">
 Install Touchdesigner, setup mediapipe and open the [file](https://github.com/vania-bisbal/mediapipe_api/blob/cb8953f1a60193e14892017bb6e6c0f613738c76/ArduinoConnected_attracted-particles_v.0.toe)
-
