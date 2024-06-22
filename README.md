@@ -91,7 +91,10 @@ The embedded Chromium support in TouchDesigner allows us to run a full web brows
 
 # Now, let's setup the electronic gloves
 After preparing the electronic gloves, you should connect it to an arduino with crocodile cables. Each glove should close a circuit. 
+Install arduino en run the [code]()
 <img width="1053" alt="digital_twin" src="https://github.com/vania-bisbal/mediapipe_api/blob/4e21118f0eb2bf75c0099d24f1905d42bd305be7/electronic%20gloves.jpeg">
 
 #Touchdesigner 
+<img width="1053" alt="digital_twin" src="https://github.com/vania-bisbal/mediapipe_api/blob/cf7b35e8693065c5c17f7856f79e2691124fe288/TD.jpeg">
+Install Touchdesigner, setup mediapipe and open the [file]()
 
